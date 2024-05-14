@@ -22,12 +22,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'veterinaria Monje 0509',
+      title: 'veterinaria Monge 0509',
       theme: ThemeData(
         useMaterial3: false,
         primarySwatch: Colors.teal,
       ),
-      home: const MyHomePage(title: 'Veterinaria Monje 0509'),
+      home: const MyHomePage(title: 'Veterinaria Monge 0509'),
     );
   }
 }
